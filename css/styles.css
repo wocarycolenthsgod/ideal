@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+   color: white;
+   background-color:#0071BC ;
+   font-family: sans-serif, monospace;
+}
+
+header{
+    background-color: #d8a348; 
+
+}
+
+header nav{
+    width: 100%;
+
+}
+
+aside {
+width: 400px;
+border-radius: 60px;
+background-color: #fff;
+padding: 20px;
+color: #000;
+float: left;
+
+ }
+ 
+ img{
+   
+ }
+
+ .whitep{
+    line-height: 26.1px;
+ }
+
+.pies{
+    background-color: #fff;
+    color: #000;
+    border-radius: 25px;
+    border-bottom: 6px solid #999;
+    width: 1000px;
+    text-align: center;    
+}
+
+ .episodio{
+    margin: 0px 0px 10px 0px;
+    text-decoration: underline;
+    color: #0071BC;
+ }
+ 
+ .volunter{
+    margin: 10px 0px 10px 0px;
+    text-decoration: underline;
+    color: #d8a348;
+ }  
+
+
+.ul2 li {
+    padding: 10px;
+    border-bottom: 3px solid #d8a348;
+} 
+
+.ul2 li:hover{
+    border-bottom: 15px solid #0071BC;
+}
+
+
+.ul2 li a {
+    text-decoration: none;
+    color: #0071BC;
+}
+
+.ul2 li a:hover{
+    color: #d8a348;
+}
+
+.ul2{
+   list-style: none;
+   
+}
+
+/* primera lista */
+header nav ul{
+    width: 100%;
+    overflow: hidden;
+    list-style: none;
+}
+
+header nav ul li {
+    float: left;
+    background-color: #000;
+    border-radius: 60px;
+    border: 20px solid #0071BC;
+}
+ 
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 20px;
+    display: inline-block;
+}
+
+
+header nav ul li a:hover{
+    color: #000;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.main{
+    width: 1000px;
+    float: left;
+    background-color: #999;
+}
+
+.main .imagen {
+    width: 100%;
+    
+}
+
+ .main .imagen img {
+    width: 100%;
+    vertical-align: top;
+}
+
+ .main .contenidoPrincipal{
+    padding: 20px;
+    background-color: #d8a348;
+}
+ 
+.main .contenidoPrincipal div h1{
+    color: #fff;
+    margin-bottom: 10px;
+
+
+}
+
+  .main .contenidoPrincipal div p{
+    line-height: 25px;
+   
+  }
+
+
+
+
+
+
